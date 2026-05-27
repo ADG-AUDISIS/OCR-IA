@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Icone_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="488"
+     inkscape:cy="554"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3435"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3433" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1291">
+      <stop
+         style="stop-color:#ffeeaa;stop-opacity:1;"
+         offset="0.08263688"
+         id="stop1287" />
+      <stop
+         style="stop-color:#c49800;stop-opacity:0.74115634;"
+         offset="1"
+         id="stop1289" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1291"
+       id="radialGradient1293"
+       cx="111.98852"
+       cy="133.087"
+       fx="111.98852"
+       fy="133.087"
+       r="25.066586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9913198,0,0,2.9913198,-228.81168,-260.58299)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1664">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.7927;stroke-dasharray:none"
+         id="rect111-5"
+         width="149.96434"
+         height="149.96434"
+         x="31.193922"
+         y="62.536991" />
+      <rect
+         style="fill:url(#radialGradient1293);fill-opacity:1;stroke-width:0.7927;stroke-dasharray:none"
+         id="rect111"
+         width="149.96434"
+         height="149.96434"
+         x="31.199627"
+         y="62.540619" />
+      <g
+         id="g1519"
+         transform="matrix(1,0,0,1.2110023,0.52916667,-22.777264)">
+        <text
+           xml:space="preserve"
+           style="font-size:19.7556px;white-space:pre;inline-size:42.025;display:inline;fill:#2b2200;stroke-width:0.264583"
+           x="51.33448"
+           y="122.28274"
+           id="text375-1-8"
+           transform="matrix(2.9913198,0,0,2.9913198,-96.249423,-265.38765)"><tspan
+             x="51.33448"
+             y="122.28274"
+             id="tspan1696"><tspan
+               style="fill:#806600"
+               id="tspan1694">-----</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:42.025;display:inline;fill:#2b2200;stroke-width:0.264583"
+           x="51.33448"
+           y="122.28274"
+           id="text375-1"
+           transform="matrix(0,7.4855358,-7.1754502,0,937.43071,-301.08238)"><tspan
+             x="51.33448"
+             y="122.28274"
+             id="tspan1700"><tspan
+               style="fill:#806600"
+               id="tspan1698">D</tspan></tspan></text>
+        <ellipse
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.529875;stroke-linejoin:bevel"
+           id="path405"
+           cx="105.45862"
+           cy="174.25706"
+           rx="61.833824"
+           ry="9.2062082" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936"
+           width="3.6200032"
+           height="57.839123"
+           x="74.395615"
+           y="107.72108" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-7"
+           width="3.6200032"
+           height="57.839123"
+           x="86.132584"
+           y="108.25214" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-54"
+           width="3.6200032"
+           height="57.839123"
+           x="97.631432"
+           y="108.72203" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-4"
+           width="3.6200032"
+           height="57.839123"
+           x="122.30885"
+           y="109.24519" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-74"
+           width="3.6200032"
+           height="57.839123"
+           x="134.32286"
+           y="108.12159" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-5"
+           width="3.6200032"
+           height="57.839123"
+           x="109.93275"
+           y="106.26589" />
+        <rect
+           style="fill:#806600;fill-opacity:1;stroke:none;stroke-width:0.649258;stroke-linejoin:bevel"
+           id="rect1936-2"
+           width="3.6200032"
+           height="57.839123"
+           x="109.93275"
+           y="108.91425" />
+      </g>
+    </g>
+  </g>
+</svg>
