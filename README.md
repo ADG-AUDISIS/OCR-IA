@@ -73,8 +73,9 @@ Caso prefira rodar diretamente do fonte (ex.: para desenvolvimento ou outras ver
    ```bash
    pip install PyPDF2 pymupdf pillow
    ```
-3. Coloque o arquivo `Fiel_Conv-v.x.x.x.py` na raiz da pasta `Fiel_Conversor`.
-4. Rode: `Fiel_Conv-v.x.x.x.py`
+3. Crie uma pasta chamada Tesseract e copie todas a bibliotecas e executáveis necessários.
+4. Coloque o arquivo `Fiel_Conv-v.x.x.x.py` na raiz da pasta `Fiel_Conversor`.
+5. Rode: `Fiel_Conv-v.x.x.x.py`
 
 ---
 
