@@ -1,4 +1,4 @@
-## OCR-IA (100% local)
+## OCR-IA - OCR com Auxílio de IA (100% local) - Versão para Linux e Windows
 
 - O OCR-IA é um programa que permite a realização de OCRs de maior qualidade com o auxílio de IAs locais, visando maior efetividade nos OCRs produzidos e com total privacidade.
 
